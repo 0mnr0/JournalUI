@@ -1,0 +1,50 @@
+body {background: #111111; margin: 0px; color: white; border: none !important; font-size: larger; line-height: 1.25}
+body * { font-family: Montserrat; }
+
+::-webkit-scrollbar {
+  width: auto;
+}
+::-webkit-scrollbar-track {
+  background: #11111140;
+  border-start-start-radius: 20px;
+  border-start-end-radius: 5px;
+  border-end-start-radius: 20px;
+  border-end-end-radius: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px
+}
+::-webkit-scrollbar-thumb {
+  background-color: wheat;
+  border-start-start-radius: 20px;
+  border-start-end-radius: 5px;
+  border-end-start-radius: 20px;
+  border-end-end-radius: 5px;
+  border: 2px solid #111111;
+}
+
+
+div#background-animated {width: 100%;
+  height: 100%;
+  position: absolute;
+  animation: AnimateBG 15s ease-in-out infinite;
+  background: linear-gradient(-45deg, #1b1b1b 0%, #826064 25%, #89464e 51%, #9f1f20 100%);
+  background-size: 300% 300%;
+}
+
+@keyframes AnimateBG {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* Debug *
+/
+* {border: solid 1px red}
+
+*/

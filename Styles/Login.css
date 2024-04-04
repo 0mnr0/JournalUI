@@ -1,0 +1,47 @@
+div#AccountLogin {
+    position: absolute;
+    right: 7%;
+    width: 20%;
+    top: 10%;
+	max-height: 100%;
+	overflow: auto;
+    height: 60%;
+	padding: 1%;
+    display: block;
+}
+
+span#JournalUIDescription{margin: 5px; position: absolute; top: 45%; transform: translateY(-45%); }
+div#ServiceDescription{position: relative; background: #11111190; left: 10%; top: 10%; max-width: 55%; overflow-y: auto;  overflow-x: hidden; height: 30%; border-radius: 45px}
+img#JournalLogoUI{width: auto; height: -webkit-fill-available; position: static; border-radius: 30px; margin: 15px; object-fit: contain}
+
+#LogToAcc{
+	font-size: 14;
+	margin-bottom: 15%
+}
+
+
+input.PassHolder{
+	display: grid;
+	width: 100%;
+	margin-top: 10px;
+	padding: 10px;
+	border: solid 2px #bb6262;
+	color: white;
+	border-radius: 10px;
+	background: #3a242490
+}
+
+button#LoginBtn{
+	position: relative;
+	margin-top: 20px;
+	width: 100%;
+	border: none;
+	cursor: pointer;
+	padding: 10px;
+	background: #cd4d32;
+	color: white;
+	border-radius: 6px;
+	scale: 1;
+	transition: all .3s;
+}
+button#LoginBtn:hover {scale: 1.1}

@@ -1,28 +1,21 @@
-function RaspberryAsk(url, data) {
-    return new Promise((resolve, reject) => {
-        url = "http://127.0.0.1:5000/" + url;
+function LoginScript(){
+	let LoginButton = document.getElementById("LoginBtn")
+	let OriginalButtonColor = LoginButton.style.background
+	//LoginButton.setAttribute("disabled",'true')
+	LoginButton.style.background='#2e2e2e';
+	LoginButton.style.cursor='default';
+	
+	
+	let LoginVal = document.getElementById("LoginField").value
+	let Pass = document.getElementById("PasswordField").value
+	
+	
+	let finalJson={
+		'application_key': "6a56a5df2667e65aab73ce76d1dd737f7d1faef9c52e8b8c55ac75f565d8e8a6",
+		'id_city': null,
+		'password': Pass,
+		'username': LoginVal}
 
-        var xhr = new XMLHttpRequest();
-        xhr.open("POST", url, true); // делаем запрос асинхронным
-        xhr.setRequestHeader("Content-Type", "application/json");
-        
-        xhr.onload = function() {
-            if (xhr.status === 200 || xhr.status === 400) {
-                try {
-                    var response = JSON.parse(xhr.responseText);
-                    resolve(response);
-                } catch (error) {
-                    reject(new Error("Failed to parse server response: " + error.message));
-                }
-            } else {
-                reject(new Error("Request failed with status: " + xhr.status));
-            }
-        };
+	HeyJournal('api/v2/auth/login', finalJson, 'POST').then(res => {console.log(res)})
 
-        xhr.onerror = function() {
-            reject(new Error("Request failed with an error"));
-        };
-
-        xhr.send(JSON.stringify(data));
-    });
 }

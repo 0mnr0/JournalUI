@@ -1,17 +1,20 @@
 div#AccountLogin {
     position: absolute;
-    right: 7%;
+    left: 62%;
     width: 20%;
-    top: 10%;
-	max-height: 100%;
+    top: 50%;
+	transform: translateY(-50%);
+	max-height: 80%;
+	border-radius: 20px;
 	overflow: auto;
-    height: 60%;
+    height: fit-content;
 	padding: 1%;
+	background: #11111150;
     display: block;
 }
 
 span#JournalUIDescription{margin: 5px; position: absolute; top: 45%; transform: translateY(-45%); }
-div#ServiceDescription{position: relative; background: #11111190; left: 10%; top: 10%; max-width: 55%; overflow-y: auto;  overflow-x: hidden; height: 30%; border-radius: 45px}
+div#ServiceDescription{position: relative; background: #11111150; left: 5%; top: 10%; max-width: 40%; overflow-y: auto;  overflow-x: hidden; height: 30%; border-radius: 45px}
 img#JournalLogoUI{width: auto; height: -webkit-fill-available; position: static; border-radius: 30px; margin: 15px; object-fit: contain}
 
 #LogToAcc{
@@ -19,6 +22,9 @@ img#JournalLogoUI{width: auto; height: -webkit-fill-available; position: static;
 	margin-bottom: 15%
 }
 
+input.PassHolder:hover {
+	scale: 1.02
+}
 
 input.PassHolder{
 	display: grid;
@@ -28,7 +34,8 @@ input.PassHolder{
 	border: solid 2px #bb6262;
 	color: white;
 	border-radius: 10px;
-	background: #3a242490
+	background: #3a242490;
+	transition: all .3s;
 }
 
 button#LoginBtn{
@@ -44,4 +51,4 @@ button#LoginBtn{
 	scale: 1;
 	transition: all .3s;
 }
-button#LoginBtn:hover {scale: 1.1}
+button#LoginBtn:hover {scale: 1.02}

@@ -1,5 +1,7 @@
 <link rel="stylesheet" href="Styles/Default.css"/>
 <link rel="stylesheet" href="Styles/Login.css"/>
+<script src="js/Servers.js"></script>
+<script src="js/Login.js"></script>
 
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 
@@ -8,7 +10,7 @@
 
 <div id="ServiceDescription">
 	<img id="JournalLogoUI" src="res/JournalUI_Logo.png">
-	<span id="JournalUIDescription">JournalUI - Полностью переписанный сайт Journal (ITStep). Предоставляется в открытом доступе и не требующий какой-либо оплаты для получения доступа. Проект был разработан в первую очередь в целях улучшения визуализацльной составляющей оригинального сайта</span>
+	<span id="JournalUIDescription">JournalUI - Полностью переписанный сайт Journal (ITStep). Предоставляется в открытом доступе и не требующий какой-либо оплаты для получения доступа. Проект был разработан в первую очередь в целях ознакмоления и улучшения визуализальной составляющей оригинального сайта</span>
 </div>
 
 <div id="AccountLogin">
@@ -16,5 +18,5 @@
 	<center id="LogToAcc">Войдите в аккаунт</center>
 	<input type="text" class="PassHolder"  id="LoginField" placeholder="Логин"/>
 	<input type="password" class="PassHolder" id="PasswordField" placeholder="Пароль">
-	<center><button id="LoginBtn">Войти</button></center>
+	<center><button id="LoginBtn" onClick="LoginScript()">Войти</button></center>
 </div>

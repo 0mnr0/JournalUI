@@ -32,6 +32,7 @@ input.PassHolder{
 	margin-top: 10px;
 	padding: 10px;
 	border: solid 2px #bb6262;
+	outline-width: 0;
 	color: white;
 	border-radius: 10px;
 	background: #3a242490;
@@ -49,8 +50,8 @@ button#LoginBtn{
 	color: white;
 	border-radius: 6px;
 	scale: 1;
-	transition: all .3s;
+	transition: all .4s;
 }
 button#LoginBtn:hover {scale: 1.02}
 button#LoginBtn:hover {scale: 1.04}
-input.PassHolder:active {scale: 1.04}
+input.PassHolder:active {scale: 1.04; border: solid 2px white;}

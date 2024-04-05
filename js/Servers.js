@@ -69,3 +69,42 @@ function HeyJournal(url, data, askMethod) {
 
 
 var ProxyEnabled = false;
+
+
+function GetBearer(pass, login){
+    try{
+        var Bearer = null;
+        const xhr = new XMLHttpRequest();
+        xhr.open('POST', 'https://msapi.top-academy.ru/api/v2/auth/login');
+        xhr.setRequestHeader('path', '/api/v2/auth/login');
+        xhr.setRequestHeader('Accept', 'application/json, text/plain, */*');
+        xhr.setRequestHeader('Accept-Language', 'ru_RU, ru');
+        xhr.setRequestHeader('Authorization', 'Bearer null');
+        xhr.setRequestHeader('Content-Type', 'application/json');
+
+        const requestBody = {
+            "application_key": "6a56a5df2667e65aab73ce76d1dd737f7d1faef9c52e8b8c55ac75f565d8e8a6",
+            "id_city": null,
+            "password": pass,
+            "username": login
+        }
+        xhr.send(JSON.stringify(requestBody));
+
+
+        xhr.addEventListener("readystatechange", () => {
+            if (xhr.readyState === XMLHttpRequest.DONE) {
+                Bearer=JSON.parse(xhr.responseText).access_token;
+                UserCId=JSON.parse(xhr.responseText).city_data.id_city;
+                var Status=JSON.parse(xhr.responseText).status;
+                if (Status === "401" || Status === 401){GetBearer()}
+                else{LoadedBearer=Bearer}
+            }
+        });
+
+        setTimeout(function(){return (Bearer)} , 100)
+
+    }catch(e){
+        console.log("Failed To get Bearer: ",e);
+        return -1;
+    }
+}

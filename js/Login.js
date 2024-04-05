@@ -16,6 +16,6 @@ function LoginScript(){
 		'password': Pass,
 		'username': LoginVal}
 
-	HeyJournal('api/v2/auth/login', finalJson, 'POST').then(res => {console.log(res)})
+	window.frames[0].frameElement.contentWindow.GetBearer(Pass, LoginVal).then(res => {console.log(res)})
 
 }

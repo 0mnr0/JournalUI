@@ -34,7 +34,7 @@ function HeyJournal(url, data, askMethod) {
 			direction: 'http://127.0.0.1:3234',
 			fetchUrl: url,
 			reqMethod: askMethod,
-			includeJson: JSON.stringify(data)
+			includeJson: data
 		}
 		if (ProxyEnabled){
 			url=LocalProxySetting.direction
@@ -81,6 +81,7 @@ function GetBearer(pass, login){
         xhr.setRequestHeader('Accept-Language', 'ru_RU, ru');
         xhr.setRequestHeader('Authorization', 'Bearer null');
         xhr.setRequestHeader('Content-Type', 'application/json');
+		xhr.setRequestHeader('X-Referer', 'https://journal.top-academy.ru/');
 
         const requestBody = {
             "application_key": "6a56a5df2667e65aab73ce76d1dd737f7d1faef9c52e8b8c55ac75f565d8e8a6",

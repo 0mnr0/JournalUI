@@ -52,3 +52,5 @@ button#LoginBtn{
 	transition: all .3s;
 }
 button#LoginBtn:hover {scale: 1.02}
+button#LoginBtn:hover {scale: 1.04}
+input.PassHolder:active {scale: 1.04}

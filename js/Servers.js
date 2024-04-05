@@ -74,7 +74,8 @@ var ProxyEnabled = false;
 function GetBearer(pass, login){
     try{
         var Bearer = null;
-        const xhr = new XMLHttpRequest();
+		var ifr = document.getElementById("iFrameCustomLoader")
+        var xhr = new ifr.contentWindow.XMLHTTPRequest();
         xhr.open('POST', 'https://msapi.top-academy.ru/api/v2/auth/login');
         xhr.setRequestHeader('path', '/api/v2/auth/login');
         xhr.setRequestHeader('Accept', 'application/json, text/plain, */*');

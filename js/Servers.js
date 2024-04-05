@@ -42,8 +42,8 @@ function HeyJournal(url, data, askMethod) {
 			data = LocalProxySetting
 
 		}
-		var ifr = document.getElementById('iFrameCustomLoader')
-        var xhr = new ifr.contentWindow.XMLHTTPRequest();
+		
+        var xhr = new XMLHttpRequest();
         xhr.open(askMethod, url, true);
         xhr.setRequestHeader("Content-Type", "application/json");
        
@@ -74,8 +74,7 @@ var ProxyEnabled = false;
 function GetBearer(pass, login){
     try{
         var Bearer = null;
-		var ifr = document.getElementById("iFrameCustomLoader")
-        var xhr = new ifr.contentWindow.XMLHTTPRequest();
+        const xhr = new XMLHttpRequest();
         xhr.open('POST', 'https://msapi.top-academy.ru/api/v2/auth/login');
         xhr.setRequestHeader('path', '/api/v2/auth/login');
         xhr.setRequestHeader('Accept', 'application/json, text/plain, */*');

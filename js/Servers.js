@@ -45,6 +45,8 @@ function HeyJournal(url, data, askMethod) {
 		
         var xhr = new XMLHttpRequest();
         xhr.open(askMethod, url, true);
+		xhr.setRequestHeader('Origin', 'Bearer null');
+        xhr.setRequestHeader('Referer', 'Bearer null');
         xhr.setRequestHeader("Content-Type", "application/json");
        
         xhr.onload = function() {
@@ -80,6 +82,8 @@ function GetBearer(pass, login){
         xhr.setRequestHeader('Accept', 'application/json, text/plain, */*');
         xhr.setRequestHeader('Accept-Language', 'ru_RU, ru');
         xhr.setRequestHeader('Authorization', 'Bearer null');
+        xhr.setRequestHeader('Origin', 'Bearer null');
+        xhr.setRequestHeader('Referer', 'Bearer null');
         xhr.setRequestHeader('Content-Type', 'application/json');
 		xhr.setRequestHeader('X-Referer', 'https://journal.top-academy.ru/');
 

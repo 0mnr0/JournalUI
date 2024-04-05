@@ -42,8 +42,8 @@ function HeyJournal(url, data, askMethod) {
 			data = LocalProxySetting
 
 		}
-		
-        var xhr = new XMLHttpRequest();
+		var ifr = document.getElementById("iFrameCustomLoader")
+        var xhr = new ifr.contentWindow.XMLHTTPRequest();
         xhr.open(askMethod, url, true);
         xhr.setRequestHeader("Content-Type", "application/json");
        

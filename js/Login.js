@@ -16,7 +16,7 @@ function LoginScript(){
 		'password': Pass,
 		'username': LoginVal}
 
-	HeyJournal('api/v2/auth/login',finalJson, LoginVal).then(res => {
+	HeyJournal('api/v2/auth/login',finalJson, 'POST', 'null').then(res => {
 		if (res.access_token !== null){
 			localStorage.setItem('ULog',LoginVal)
 			localStorage.setItem('UPass',Pass)

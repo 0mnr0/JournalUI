@@ -1,4 +1,4 @@
-body {background: #111111; margin: 0px; color: white; border: none !important; font-size: larger; line-height: 1.25}
+body {background: #111111; margin: 0px; color: white; border: none !important; font-size: larger; line-height: 1.25; transition: all .5s;}
 body * { font-family: Montserrat; }
 
 

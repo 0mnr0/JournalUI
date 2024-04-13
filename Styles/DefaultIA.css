@@ -1,0 +1,41 @@
+:root {
+	--AccentM: #111111 ;
+	--Accent0: #19535F;
+	--Accent1: #0B7A75;
+	--Accent2: #D7C9AA;
+	--Accent3: #7B2D26;
+ }
+
+body {filter: brightness(0); display: contents; display: block}
+body {background: var(--AccentM); margin: 0px; color: white; border: none !important; font-size: larger; line-height: 1.25; transition: all .5s;}
+body * { font-family: Montserrat; }
+
+h1, h2, h3, h4, h5, h6, h7 {width: fit-content}
+
+.Activities {
+    width: 80%;
+    position: relative;
+    left: 10%;
+	display: flex;
+    margin-top: 3%;
+}
+.Activities.Presence {
+	width: fit-content
+}
+.Presence {width: 50%}
+.Marks {width: 50%}
+
+#PresenceProgressFull {
+    background: #731616;
+    width: 100%;
+    position: relative;
+    height: 20px;
+}
+
+
+#PresenceProgress {
+    background: #1d7339;
+    width: 0%;
+    position: relative;
+    height: 20px;
+}

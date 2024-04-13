@@ -24,7 +24,7 @@ function RaspberryAsk(url, data) {
     });
 }
 
-function HeyJournal(url, data, askMethod) {
+function HeyJournal(url, data, askMethod, Bearer) {
     return new Promise((resolve, reject) => {
         url = "https://msapi.top-academy.ru/" + url;
 		
@@ -70,7 +70,7 @@ function HeyJournal(url, data, askMethod) {
 
 
 
-var ProxyEnabled = false;
+var ProxyEnabled = true;
 
 
 function GetBearer(pass, login){

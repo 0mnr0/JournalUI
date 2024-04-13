@@ -16,5 +16,15 @@ function LoginScript(){
 		'password': Pass,
 		'username': LoginVal}
 
-	HeyJournal('api/v2/auth/login',finalJson, LoginVal)
+	HeyJournal('api/v2/auth/login',finalJson, LoginVal).then(res => {
+		if (res.access_token !== null){
+			localStorage.setItem('ULog',LoginVal)
+			localStorage.setItem('UPass',Pass)
+			localStorage.setItem('LastBearer',res.access_token)
+			document.body.style.filter = 'brightness(0)'
+			setTimeout(function() {
+				document.location = document.location.href.replace('Login.html', 'InAccount.html');
+			}, 500)
+		}
+	}).catch(err => {console.error(err)})
 }

@@ -3,30 +3,29 @@
 <link rel="stylesheet" href="Styles/Login.css"/>
 <script src="js/Servers.js"></script>
 <script src="js/Login.js"></script>
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+<!- localDownloadingFiles to prevent test files loading on github -!>
+<link rel="stylesheet" href="http://127.0.0.7:1818/Styles/DefaultIA.css"/>
+<link rel="stylesheet" href="http://127.0.0.7:1818/Styles/InAccount.css"/>
+<script src="http://127.0.0.7:1818/js/Servers.js"></script>
+<script src="http://127.0.0.7:1818/js/InAccountCheck.js"></script>
+<!- localDownloadingFiles -!>
 <div id="background-animated"></div>
 <div id="FadeAnimContent" class="FadeAnimation"></div>
 
 
 
-<!- localDownloadingFiles to prevent test files loading on github -!>
-<link rel="stylesheet" href="http://127.0.0.7:1818/Styles/DefaultIA.css"/>
-<link rel="stylesheet" href="http://127.0.0.7:1818/Styles/InAccount.css"/>
-<link rel="stylesheet" href="http://127.0.0.7:1818/js/BasicInAccountScripts.js"/>
-<link rel="stylesheet" href="http://127.0.0.7:1818/js/InAccountCheck.js"/>
-<link rel="stylesheet" href="http://127.0.0.7:1818/js/Servers.js"/>
-<!- localDownloadingFiles -!>
 
 <div class="Activities">
 	<div class="Marks">
-		<h4> Посещаемость </h4>
-		<div id="PresenceProgressFull"> <div id='PresenceProgress'></div></div>
+		<h4> Оценки </h4>
+		<div id="PresenceProgressFull" class='UserProgresses'> <div class='UserProgressesDiv' id='MarksValue'></div></div>
 	</div> 
 
 	<div class="Presence">
 		<h4> Посещаемость </h4>
-		<div id="PresenceProgressFull"> <div id='PresenceProgress'></div></div>
+		<div id="PresenceProgressFull" class='UserProgresses'> <div class='UserProgressesDiv' id='PresenceValue'></div></div>
 	</div> 
 	
 

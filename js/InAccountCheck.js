@@ -16,5 +16,17 @@ setInterval(RefreshBearer, 240000)
 
 
 
-let thisJson = {}
-HeyJournal('api/v2/dashboard/chart/average-progress', thisJson, 'GET', {'Bearer'" })
+HeyJournal('api/v2/dashboard/chart/average-progress', {}, 'GET', localStorage.LastBearer).then(res=>{
+	let LastValue = res[res.length-1].points
+	let PreviousValue = res[res.length-2].points
+	document.getElementById('MarksValue').style.width = ((100/12)*LastValue)+'%'
+	document.querySelector('.Marks h4').textContent = ' Оценки: '+LastValue
+})
+
+
+HeyJournal('api/v2/dashboard/chart/attendance', {}, 'GET', localStorage.LastBearer).then(res=>{
+	let LastValue = res[res.length-1].points
+	let PreviousValue = res[res.length-2].points
+	document.getElementById('PresenceValue').style.width = LastValue+'%'
+	document.querySelector('.Presence h4').textContent = ' Посещаемость: '+LastValue+'%'
+})

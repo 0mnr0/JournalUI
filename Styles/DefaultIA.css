@@ -22,20 +22,23 @@ h1, h2, h3, h4, h5, h6, h7 {width: fit-content}
 .Activities.Presence {
 	width: fit-content
 }
-.Presence {width: 50%}
-.Marks {width: 50%}
+.Presence {width: 50%; margin-left: 10px;}
+.Marks {width: 50%; margin-right: 10px}
 
 #PresenceProgressFull {
-    background: #731616;
+    background: var(--Accent3);
     width: 100%;
     position: relative;
     height: 20px;
 }
 
+.UserProgresses, .UserProgresses div {border-radius: 200px}
 
-#PresenceProgress {
-    background: #1d7339;
+
+.UserProgressesDiv {
+    background: var(--Accent1);
     width: 0%;
     position: relative;
     height: 20px;
+	transition: all .5s;
 }

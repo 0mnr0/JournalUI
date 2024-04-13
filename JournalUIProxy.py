@@ -23,7 +23,7 @@ def process_request():
         'Authorization': 'Bearer null',
         'Content-Type': 'application/json',
         'Sec-Fetch-Mode': 'cors',
-        'Bearer': 'Bearer '+data.get('Bearer'),
+        'Bearer': 'Bearer '+str(data.get('Bearer')),
         'Accept-Encoding':'gzip, deflate, br, zstd',
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36'
     }

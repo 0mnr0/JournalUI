@@ -34,7 +34,8 @@ function HeyJournal(url, data, askMethod, Bearer) {
 			direction: 'http://127.0.0.1:3234',
 			fetchUrl: url,
 			reqMethod: askMethod,
-			includeJson: data
+			includeJson: data,
+			Bearer: Bearer
 		}
 		if (ProxyEnabled){
 			url=LocalProxySetting.direction
@@ -45,8 +46,7 @@ function HeyJournal(url, data, askMethod, Bearer) {
 		
         var xhr = new XMLHttpRequest();
         xhr.open(askMethod, url, true);
-		xhr.setRequestHeader('Origin', 'Bearer null');
-        xhr.setRequestHeader('Referer', 'Bearer null');
+		
         xhr.setRequestHeader("Content-Type", "application/json");
        
         xhr.onload = function() {

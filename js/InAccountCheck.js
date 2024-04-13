@@ -20,6 +20,7 @@ HeyJournal('api/v2/dashboard/chart/average-progress', {}, 'GET', localStorage.La
 	let LastValue = res[res.length-1].points
 	let PreviousValue = res[res.length-2].points
 	document.getElementById('MarksValue').style.width = ((100/12)*LastValue)+'%'
+	localStorage.MarksValue=LastValue
 	document.querySelector('.Marks h4').textContent = ' Оценки: '+LastValue
 })
 
@@ -28,5 +29,6 @@ HeyJournal('api/v2/dashboard/chart/attendance', {}, 'GET', localStorage.LastBear
 	let LastValue = res[res.length-1].points
 	let PreviousValue = res[res.length-2].points
 	document.getElementById('PresenceValue').style.width = LastValue+'%'
+	localStorage.PresenceValue=LastValue+'%'
 	document.querySelector('.Presence h4').textContent = ' Посещаемость: '+LastValue+'%'
 })

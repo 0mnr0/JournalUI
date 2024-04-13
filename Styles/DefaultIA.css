@@ -10,15 +10,21 @@ body {filter: brightness(0); display: contents; display: block}
 body {background: var(--AccentM); margin: 0px; color: white; border: none !important; font-size: larger; line-height: 1.25; transition: all .5s;}
 body * { font-family: Montserrat; }
 
-h1, h2, h3, h4, h5, h6, h7 {width: fit-content}
+h1, h2, h3, h4, h5, h6, h7 {width: fit-content; margin:0; padding: 0; color: var(--Accent2)}
 
 .Activities {
+	background: var(--Accent0);
+	padding: 20px;
+	border-radius: 30px;
     width: 80%;
     position: relative;
     left: 10%;
 	display: flex;
     margin-top: 3%;
 }
+
+.Marks h4, .Presence h4 {margin-bottom: 15px}
+
 .Activities.Presence {
 	width: fit-content
 }

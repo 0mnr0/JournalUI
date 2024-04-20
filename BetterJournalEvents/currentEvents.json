@@ -1,10 +1,10 @@
 {
-	codeName: "VoteForJUI",
-	toastTitle: "Хотите новый журнал?",
-	toastDescription: "Я могу полностью переписать журнал но есть проблема",
-	toastButtons: {
-		title: 'Проголосуйте пожалуйтса :D',
-		func: 'DocToast',
-		text: ''
+	'codeName': "VoteForJUI",
+	'toastTitle': "Хотите новый журнал?",
+	'toastDescription': "Я могу полностью переписать журнал но есть проблема",
+	'toastButtons': {
+		'title': 'Проголосуйте пожалуйтса :D',
+		'func': 'DocToast',
+		'text': '',
 	}
 }

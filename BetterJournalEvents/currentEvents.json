@@ -5,6 +5,6 @@
 	"toastButtons": {
 		"title": "Проголосуйте пожалуйтса :D",
 		"func": "DocToast",
-		"text": "",
+		"text": ""
 	}
 }

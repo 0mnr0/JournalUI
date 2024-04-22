@@ -1,0 +1,86 @@
+body * {font-family: Montserrat; color: #E5D2B0; font-size: large}
+body {background: #252728; padding: 0; margin: 0}
+
+
+h1, h2, h3, h4, h5, h6, h7 { margin:0; padding: 0; width: fit-content}
+
+.TwoRismDiscription {
+	position: relative;
+	padding: 20px;
+	max-width: 60%;
+	
+	}
+
+button {outline-border: none}
+
+.InLineElements {display: flex}
+
+.ButtonBetweenPages:hover {border: solid 2px #59E926; scale: 1.02}
+
+.TwoRizmLine {
+	position: relative;
+	width: -webkit-fill-available;
+	height: fit-content;
+	padding: 6px;
+	background: #7D7757;
+	top: 0px;
+	border-end-start-radius: 15px;
+	z-index: 3;
+	border-end-end-radius: 15px;
+}
+
+.ButtonBetweenPages {
+	border-radius: 12px;
+	border: solid 2px #71CB51;
+	padding: 3px;
+	margin-left: 5px;
+	color: white;
+	font-weight: bold;
+	cursor: pointer;
+	min-width: fit-content;
+	transition: all .3s;
+	width: 10%;
+	background: #78A468;
+}
+
+.TwoRizmHeader{margin-left: 10px;}
+
+.TwoRizmImage {
+    width: 100%;
+	position: absolute;
+    max-height: 80%;
+	top: 0px;
+    object-fit: cover;
+	filter: brightness(0.5);
+	z-index: 0;
+	border-end-start-radius: 30px;
+	border-end-end-radius: 30px;
+}
+
+.FloatingMenu {
+	width: fit-content;
+	height: fit-content;
+	top: 50%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%,-50%);
+	background: #7D7757;
+	border-radius: 25px;
+	padding: 15px;
+}
+
+
+.ButtonInFloatingMenu {
+	border-radius: 12px;
+	border: solid 2px #71CB51;
+	padding: 10px;
+	color: white;
+	font-weight: bold;
+	cursor: pointer;
+	transition: all .3s;
+	width: -webkit-fill-available;
+	background: #78A468;
+	margin-top: 5px;
+}
+
+.ButtonInFloatingMenu:hover {border: solid 2px #59E926; scale: 1.02}

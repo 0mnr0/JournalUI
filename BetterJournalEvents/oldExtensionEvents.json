@@ -1,4 +1,15 @@
 {
-    eventTitle: "Заголовок",
-    eventDescription: "Desc"
+    eventTitle: "Помощь в отключении CORS",
+    eventDescription: "Есть идея переписать Journal полностью, с тонной новых фишек",
+    buttons: {
+        {
+            text: "Помочь",
+            action: "DocToast('<p>TestText</p>')"
+        },
+        {
+            text: "Отложить",
+            action: null,
+        }
+
+    }
 }

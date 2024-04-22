@@ -3,6 +3,7 @@
         eventTitle: "Помощь в отключении CORS",
         eventDescription: "Есть идея переписать Journal полностью, с тонной новых фишек",
         enabled: true,
+        showTime: "always",
         buttons: {
             0: {
                 text: "Помочь",
@@ -16,6 +17,7 @@
         }
     }, 
      1: {
+         showTime: "once",
          enabled: false
      }
 }

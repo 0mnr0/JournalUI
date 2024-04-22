@@ -1,19 +1,30 @@
 body * {font-family: Montserrat; color: #E5D2B0; font-size: large}
-body {background: #252728; padding: 0; margin: 0}
+body {background: #131c17; padding: 0; margin: 0}
 
 
 h1, h2, h3, h4, h5, h6, h7 { margin:0; padding: 0; width: fit-content}
+
+.TravelIcon {
+	height: 40px;
+}
 
 .TwoRismDiscription {
 	position: relative;
 	padding: 20px;
 	max-width: 60%;
-	
-	}
+}
+
+.SiteDescription {
+    margin: 0;
+    font-size: small;
+    margin-left: 10%;
+    width: 200%;
+
+}
 
 button {outline-border: none}
 
-.InLineElements {display: flex}
+.InLineElements {display: flex; position: absolute; top:0px;}
 
 .ButtonBetweenPages:hover {border: solid 2px #59E926; scale: 1.02}
 
@@ -22,10 +33,41 @@ button {outline-border: none}
 	width: -webkit-fill-available;
 	height: fit-content;
 	padding: 6px;
-	background: #7D7757;
-	border-end-start-radius: 15px;
+	background: #192e29;
+	display: ruby-text;
 	z-index: 3;
 	border-end-end-radius: 15px;
+}
+
+.TwoRizmLine h4 {float: left;}
+
+.SideBar button {
+	width: 100%;
+	height: fit-content;
+	margin: 5px;
+}
+
+button.ButtonBetweenPages.Active {border: solid 2px #ffab54}
+
+.SideBar {
+	width: 26%;
+	height: -webkit-fill-available;
+	background: #192e29;
+	padding-left: 0.5%;
+	display: flow;
+	align-content: center;
+}
+
+.SiteMenu {
+    width: -webkit-fill-available;
+	margin-bottom: 20%;
+    text-align: center;
+}
+
+.AllContent {
+	height: -webkit-fill-available;
+	display: flex;
+
 }
 
 .ButtonBetweenPages {
@@ -35,6 +77,9 @@ button {outline-border: none}
 	margin-left: 5px;
 	color: white;
 	font-weight: bold;
+	height: 40px;
+	position: relative;
+	float: right;
 	cursor: pointer;
 	min-width: fit-content;
 	transition: all .3s;
@@ -44,13 +89,16 @@ button {outline-border: none}
 
 .TwoRizmHeader{margin-left: 10px;}
 
+.TwoRizmHeader b { font-size: larger;}
+
 .TwoRizmImage {
-    width: 100%;
+    width: -webkit-fill-available;
 	position: absolute;
-    max-height: 80%;
+    max-height: 85%;
     object-fit: cover;
 	filter: brightness(0.5);
 	z-index: 0;
+	top: 0px;
 	border-end-start-radius: 30px;
 	border-end-end-radius: 30px;
 }

@@ -1,10 +1,5 @@
 {
-	"codeName": "VoteForJUI",
-	"toastTitle": "это заголовок",
-	"toastDescription": "Это описание",
-	"toastButtons": {
-		"title": "Проголосуйте пожалуйста :D",
-		"func": "DocToast",
-		"text": ""
-	}
+	eventTitle: "Title",
+	eventDescription: "Desc"
+	
 }

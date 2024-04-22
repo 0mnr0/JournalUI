@@ -2,11 +2,11 @@
     eventTitle: "Помощь в отключении CORS",
     eventDescription: "Есть идея переписать Journal полностью, с тонной новых фишек",
     buttons: {
-        {
+        0: {
             text: "Помочь",
             action: "DocToast('<p>TestText</p>')"
         },
-        {
+        1: {
             text: "Отложить",
             action: null,
         }

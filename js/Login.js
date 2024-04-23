@@ -21,7 +21,8 @@ function LoginScript(){
 			localStorage.setItem('ULog',LoginVal)
 			localStorage.setItem('UPass',Pass)
 			localStorage.setItem('LastBearer',res.access_token)
-			document.body.style.filter = 'brightness(0)'
+			document.body.style.filter = 'brightness(0)';
+			console.log(res)
 			setTimeout(function() {
 				document.location = document.location.href.replace('Login.html', 'InAccount.html');
 			}, 500)

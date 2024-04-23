@@ -1,7 +1,8 @@
-<style>filter: brightness(0); transition: all 0s</style>
+<style>body {filter: brightness(0); transition: all 1s}</style>
 <link rel="stylesheet" href="Styles/DefaultIA.css"/>
 <link rel="stylesheet" href="Styles/Login.css"/>
 <script src="js/Servers.js"></script>
+<title> Главная </title>
 <script src="js/Login.js"></script>
 
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
@@ -10,29 +11,60 @@
 <link rel="stylesheet" href="http://127.0.0.7:1818/Styles/InAccount.css"/>
 <script src="http://127.0.0.7:1818/js/Servers.js"></script>
 <script src="http://127.0.0.7:1818/js/InAccountCheck.js"></script>
+<script src="http://127.0.0.7:1818/js/DifferentDimensions.js"></script>
 <!- localDownloadingFiles -!>
-<div id="background-animated"></div>
 <div id="FadeAnimContent" class="FadeAnimation"></div>
 
 
 
 
-<div class="Activities">
-	<div class="Marks">
-		<h4> Оценки </h4>
-		<div id="PresenceProgressFull" class='UserProgresses'> <div class='UserProgressesDiv' id='MarksValue'></div></div>
-	</div> 
-
-	<div class="Presence">
-		<h4> Посещаемость </h4>
-		<div id="PresenceProgressFull" class='UserProgresses'> <div class='UserProgressesDiv' id='PresenceValue'></div></div>
-	</div> 
-	
+<div class="UserMenu"> 
+	<img id="UserImage"> </img>
+	<div class="OneBigDiv">
+		<span id='UserName'> </span>
+		<div class="PointsInfoLine">
+			<div class="ParentLearnPointsByEvery">
+				<div class="FirstPoints"> 
+					<img src='https://journal.top-academy.ru/assets/resources/top-coin.svg'> 
+					<h5 id="LearnPoints0">1234</h5>
+				</div>
+				<div class="SecondPoints"> 
+					<img src='https://journal.top-academy.ru/assets/resources/top-gem.svg'> 
+					<h5 id="LearnPoints1">2054</h5>
+				</div>
+			</div>
+			<div class="ParentLearnPointsInSumm">
+				<img class="SummCoinImg" src='https://journal.top-academy.ru/assets/resources/top-money.svg'> 
+				<h4 id="LearnSumPoints">1234</h4>
+			</div>	
+		</div>
+	</div>
 
 </div>
 
 
 
-<script>document.body.style.filter='brightness(1)'</script>
 
+
+
+	<div class="MainPageContent"> 
+	<div class="Activities">
+		<div class="Marks">
+			<h4> Оценки </h4>
+			<div id="PresenceProgressFull" class='UserProgresses'> <div class='UserProgressesDiv' id='MarksValue'></div></div>
+		</div> 
+
+		<div class="Presence">
+			<h4> Посещаемость </h4>
+			<div id="PresenceProgressFull" class='UserProgresses'> <div class='UserProgressesDiv' id='PresenceValue'></div></div>
+		</div> 
+	</div>
+
+
+
+
+
+
+
+<script>setTimeout(function() {document.body.style.filter='brightness(1)'}, 50)</script>
 <script src="http://127.0.0.7:1818/js/FromLocalStorageFastRestore.js"></script>

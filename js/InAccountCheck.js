@@ -32,3 +32,12 @@ HeyJournal('api/v2/dashboard/chart/attendance', {}, 'GET', localStorage.LastBear
 	localStorage.PresenceValue=LastValue+'%'
 	document.querySelector('.Presence h4').textContent = ' Посещаемость: '+LastValue+'%'
 })
+
+HeyJournal('api/v2/settings/user-info', {}, 'GET', localStorage.LastBearer).then(res=>{
+	localStorage.UserAcc = JSON.stringify(res)
+	document.getElementById('UserImage').src= res.photo
+	document.getElementById('UserName').textContent= res.full_name
+	document.getElementById('LearnPoints0').textContent=res.gaming_points[0].points
+	document.getElementById('LearnPoints1').textContent=res.gaming_points[1].points
+	document.getElementById('LearnSumPoints').textContent=(res.gaming_points[0].points) + (res.gaming_points[1].points)
+})

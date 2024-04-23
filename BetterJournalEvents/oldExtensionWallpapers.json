@@ -1,0 +1,16 @@
+{
+	0: {
+		wallpaperName: "Blade Runner"
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/image/upload/BetterJournal/rayan_button_libjmb.png",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1701688292/BetterJournal/RayanGosling.mp4",
+		wallpaperEngineLink: null,
+		tag: "Mems"
+	},
+	1: {
+		wallpaperName: "Lonely Samurai"
+		wallpaperVideoLink: "",
+		wallpaperPreview: "",
+		wallpaperEngineLink: null,
+		tag: "Anime"
+	}
+}

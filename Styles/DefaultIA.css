@@ -6,11 +6,64 @@
 	--Accent3: #7B2D26;
  }
 
-body {filter: brightness(0); display: contents; display: block}
-body {background: var(--AccentM); margin: 0px; color: white; border: none !important; font-size: larger; line-height: 1.25; transition: all .5s;}
+body {filter: brightness(0); margin:0; padding:0;  width: 100%; height: 100%}
+body {background: var(--AccentM); color: white; font-size: larger; line-height: 1.25; transition: all .5s;}
 body * { font-family: Montserrat; }
 
 h1, h2, h3, h4, h5, h6, h7 {width: fit-content; margin:0; padding: 0; color: var(--Accent2)}
+#UserImage{max-width: 62px; max-height: 100px; object-fit: cover;}
+
+#background-animated {z-index: 100; position: absolute; transition: all .5s; filter: brightness(0); height: 100%}
+
+.PointsInfoLine {
+	display: flex
+}
+
+.OneBigDiv {margin-left: 5px}
+
+.FirstPoints, .SecondPoints {display: flex;}
+
+.SummCoinImg {width: 15%}
+
+.ParentLearnPointsByEvery{
+	width: 50%;
+	position: relative;
+	height: min-content;
+	margin-right: 2px;
+	border-start-start-radius: 10px;
+	border-end-start-radius: 10px;
+	padding: 5px;
+	background: var(--Accent3);
+}
+.ParentLearnPointsInSumm{
+	width: 50%;
+	display: flex;
+	position: relative;
+	border-start-end-radius: 10px;
+	border-end-end-radius: 10px;
+	padding: 5px;
+	height: auto;
+	background: var(--Accent3);
+}
+
+.ParentLearnPointsInSumm h4 {line-height: 2; text-align: center;}
+
+
+
+.UserMenu img {border-radius: 10px;}
+
+.UserMenu {
+    background: var(--Accent0);
+    position: absolute;
+    right: 20px;
+	overflow: hidden;
+    top: 20px;
+	padding: 5px;
+	border: solid 2px var(--Accent1);
+	border-radius: 15px;
+	display: flex;
+	z-index: 4
+}
 
 .Activities {
 	background: var(--Accent0);

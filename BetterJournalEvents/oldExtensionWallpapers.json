@@ -1,16 +1,108 @@
 {
+	
 	0: {
 		wallpaperName: "Blade Runner",
-		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/image/upload/BetterJournal/rayan_button_libjmb.png",
-		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1701688292/BetterJournal/RayanGosling.mp4",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/BetterJournal/rayan_button_libjmb.png",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1701688292/BetterJournal/RayanGosling.mp4",
 		wallpaperEngineLink: null,
 		tag: "Mems"
 	},
 	1: {
 		wallpaperName: "Lonely Samurai",
-		wallpaperVideoLink: "",
-		wallpaperPreview: "",
-		wallpaperEngineLink: null,
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/BetterJournal/samurai_s7kmzs.png",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1702036134/BetterJournal/LonelySamurai.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2130919433",
 		tag: "Anime"
+	},
+	2: {
+		wallpaperName: "Sci-Fi Planet",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1703523717/BetterJournal/SciFiPreview_idoc9v.png",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1703523377/BetterJournal/SciFi_Planet_znl1hm.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2824047299",
+		tag: "Nature"
+	},
+	3: {
+		wallpaperName: "In The Mountains",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1703876130/BetterJournal/IntoMauntatinsPreview_vdm8bk.png",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1703876097/BetterJournal/InTheMounatins_slgfmu.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=1837650841",
+		tag: "Nature"
+	},
+	4: {
+		wallpaperName: "Japan Autumn",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1703876835/BetterJournal/JapanAutumnPreview_qiv3ec.png",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1703876827/BetterJournal/JapanAutumn.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2605094298",
+		tag: "Anime"
+	},
+	5: {
+		wallpaperName: "Komiwave",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1705488836/BetterJournal/KomiWaveGif_oovxez.gif",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1705404693/BetterJournal/Komivawe_hvogvx.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2391553844",
+		tag: "Anime"
+	},
+	6: {
+		wallpaperName: "Atelier",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1705568757/BetterJournal/atelier_preview_jviwmf.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1705568750/BetterJournal/Atelier_dwundx.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3030675413",
+		tag: "Anime"
+	},
+	7: {
+		wallpaperName: "9mm",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1706250800/BetterJournal/9mm_preview.gif",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1706250773/BetterJournal/9mm.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3135364491",
+		tag: "Cars"
+	},
+	8: {
+		wallpaperName: "Sachiro",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1706527557/BetterJournal/SachiroPrevoew_qwfv96.png",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1706527152/BetterJournal/SachiroBg.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2915222568",
+		tag: "Anime"
+	},
+	9: {
+		wallpaperName: "Demon Slayer",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1706528048/BetterJournal/DemonSlayerPreview.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1706528164/BetterJournal/DemonSlayer.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=1884879976",
+		tag: "Anime"
+	},
+	10: {
+		wallpaperName: "Ice Wolf",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1706688219/BetterJournal/IceWolf_preview.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1706688129/BetterJournal/IceWolf_ksa5yy.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3000492313",
+		tag: "Anime"
+	},
+	11: {
+		wallpaperName: "Inano",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1707735546/BetterJournal/Inano.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1707735557/BetterJournal/inano_video.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3021987040",
+		tag: "Anime"
+	},
+	12: {
+		wallpaperName: "Pine Forest",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1710847522/BetterJournal/PineForest_lwvutf.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1710847605/BetterJournal/Aesthetic_Pine_Forest_rua7vk.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2844116483",
+		tag: "Nature"
+	},
+	13: {
+		wallpaperName: "Japan Forest",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1710915212/BetterJournal/JapanAutumn_x3oy3w.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1710915082/BetterJournal/JapanForest_syoxad.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2619919364",
+		tag: "Nature"
+	},
+	14: {
+		wallpaperName: "Crismon Forest",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1712575158/BetterJournal/CrismonPreview_bz7vci.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1712575169/BetterJournal/Crismon_yepuws.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=1117892236",
+		tag: "Nature"
 	}
 }

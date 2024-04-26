@@ -5,139 +5,175 @@
 		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/BetterJournal/rayan_button_libjmb.png",
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1701688292/BetterJournal/RayanGosling.mp4",
 		wallpaperEngineLink: null,
-		tag: "Mems"
+		tag: "Mems",
+		forBigBoysOnly: false
 	},
 	1: {
 		wallpaperName: "Lonely Samurai",
 		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/BetterJournal/samurai_s7kmzs.png",
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1702036134/BetterJournal/LonelySamurai.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2130919433",
-		tag: "Anime"
+		tag: "Anime",
+		forBigBoysOnly: false
 	},
 	2: {
 		wallpaperName: "Sci-Fi Planet",
 		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1703523717/BetterJournal/SciFiPreview_idoc9v.png",
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1703523377/BetterJournal/SciFi_Planet_znl1hm.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2824047299",
-		tag: "Nature"
+		tag: "Nature",
+		forBigBoysOnly: false
 	},
 	3: {
 		wallpaperName: "In The Mountains",
 		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1703876130/BetterJournal/IntoMauntatinsPreview_vdm8bk.png",
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1703876097/BetterJournal/InTheMounatins_slgfmu.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=1837650841",
-		tag: "Nature"
+		tag: "Nature",
+		forBigBoysOnly: false
 	},
 	4: {
 		wallpaperName: "Japan Autumn",
 		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1703876835/BetterJournal/JapanAutumnPreview_qiv3ec.png",
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1703876827/BetterJournal/JapanAutumn.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2605094298",
-		tag: "Anime"
+		tag: "Anime",
+		forBigBoysOnly: false
 	},
 	5: {
 		wallpaperName: "Komiwave",
 		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1705488836/BetterJournal/KomiWaveGif_oovxez.gif",
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1705404693/BetterJournal/Komivawe_hvogvx.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2391553844",
-		tag: "Anime"
+		tag: "Anime",
+		forBigBoysOnly: false
 	},
 	6: {
 		wallpaperName: "Atelier",
 		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1705568757/BetterJournal/atelier_preview_jviwmf.jpg",
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1705568750/BetterJournal/Atelier_dwundx.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3030675413",
-		tag: "Anime"
+		tag: "Anime",
+		forBigBoysOnly: false
 	},
 	7: {
 		wallpaperName: "9mm",
 		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1706250800/BetterJournal/9mm_preview.gif",
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1706250773/BetterJournal/9mm.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3135364491",
-		tag: "Cars"
+		tag: "Cars",
+		forBigBoysOnly: false
 	},
 	8: {
 		wallpaperName: "Sachiro",
 		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1706527557/BetterJournal/SachiroPrevoew_qwfv96.png",
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1706527152/BetterJournal/SachiroBg.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2915222568",
-		tag: "Anime"
+		tag: "Anime",
+		forBigBoysOnly: false
 	},
 	9: {
 		wallpaperName: "Demon Slayer",
 		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1706528048/BetterJournal/DemonSlayerPreview.jpg",
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1706528164/BetterJournal/DemonSlayer.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=1884879976",
-		tag: "Anime"
+		tag: "Anime",
+		forBigBoysOnly: false
 	},
 	10: {
 		wallpaperName: "Ice Wolf",
 		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1706688219/BetterJournal/IceWolf_preview.jpg",
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1706688129/BetterJournal/IceWolf_ksa5yy.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3000492313",
-		tag: "Anime"
+		tag: "Anime",
+		forBigBoysOnly: false
 	},
 	11: {
 		wallpaperName: "Inano",
 		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1707735546/BetterJournal/Inano.jpg",
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1707735557/BetterJournal/inano_video.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3021987040",
-		tag: "Anime"
+		tag: "Anime",
+		forBigBoysOnly: false
 	},
 	12: {
 		wallpaperName: "Pine Forest",
 		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1710847522/BetterJournal/PineForest_lwvutf.jpg",
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1710847605/BetterJournal/Aesthetic_Pine_Forest_rua7vk.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2844116483",
-		tag: "Nature"
+		tag: "Nature",
+		forBigBoysOnly: false
 	},
 	13: {
 		wallpaperName: "Japan Forest",
 		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1710915212/BetterJournal/JapanAutumn_x3oy3w.jpg",
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1710915082/BetterJournal/JapanForest_syoxad.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2619919364",
-		tag: "Nature"
+		tag: "Nature",
+		forBigBoysOnly: false
 	},
 	14: {
 		wallpaperName: "Crismon Forest",
 		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1712575158/BetterJournal/CrismonPreview_bz7vci.jpg",
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1712575169/BetterJournal/Crismon_yepuws.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=1117892236",
-		tag: "Nature"
+		tag: "Nature",
+		forBigBoysOnly: false
 	},
 	15: {
 		wallpaperName: "Roronoa",
 		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714106804/BetterJournal/Roronoa_huvn25.gif",
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714107212/BetterJournal/Roronoa.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3045773500",
-		tag: "Anime"
+		tag: "Anime",
+		forBigBoysOnly: false
 	},
 	16: {
 		wallpaperName: "Rear LS400",
 		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714107505/BetterJournal/RearLS400.gif",
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714107590/BetterJournal/paradoxviis_Rear_Wangan_H_kwzinj.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2986721963",
-		tag: "Anime"
+		tag: "Anime",
+		forBigBoysOnly: false
 	},
 	17: {
 		wallpaperName: "Dante - Heartbeat",
 		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714107708/BetterJournal/Dante%20-%20Hearbeat.gif",
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714107735/BetterJournal/Dante_-Heartbeat_qyamy4.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3149610244",
-		tag: "Mems"
+		tag: "Mems",
+		forBigBoysOnly: false
 	},
 	18: {
 		wallpaperName: "Purple Moon",
 		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714108283/BetterJournal/PurpleMoonPreview.gif",
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714108276/BetterJournal/night-sky-purple-moon-clouds-moewalls-com_dcjnot.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3020093729",
-		tag: "Fantastic"
+		tag: "Fantastic",
+		forBigBoysOnly: false
 	},
 	19: {
 		wallpaperName: "John Sena",
 		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714108492/BetterJournal/JohnSenaPreview.jpg",
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714108486/BetterJournal/John_Cena_FIFTY_FIFTY_-_Cupid_sped_up_-_1080p_q9okcd.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2974651621",
-		tag: "Mems"
+		tag: "Mems",
+		forBigBoysOnly: false
+	},
+	20: {
+		wallpaperName: "Evening Ride",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714108700/BetterJournal/Evening%20Ride.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714108711/BetterJournal/Laura_Clean_Render_2_xlmaco.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3003678074",
+		tag: "Pixel Art",
+		forBigBoysOnly: false
+	},
+	21: {
+		wallpaperName: "GTA VI Trailer",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714109177/BetterJournal/gta6_preview_krmdha.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714109188/BetterJournal/Grand_Theft_Auto_VI_Trailer_1_vbupdd.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3105525287",
+		tag: "Fantastic",
+		forBigBoysOnly: true
 	}
 }

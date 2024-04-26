@@ -431,5 +431,37 @@
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2985644813",
 		tag: "Games",
 		forBigBoysOnly: false
+	},
+	54: {
+		wallpaperName: "Huh Dog",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714124769/BetterJournal/preview_rfrz0g.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714124772/BetterJournal/huh_dog_gn8ixx.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2916544077",
+		tag: "Mems",
+		forBigBoysOnly: false
+	},
+	55: {
+		wallpaperName: "Walther White Dancing",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714124810/BetterJournal/preview_a2feun.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714124813/BetterJournal/Walter_s.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3208760528",
+		tag: "Mems",
+		forBigBoysOnly: false
+	},
+	56: {
+		wallpaperName: "tf2",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714124984/BetterJournal/prev_aqrdxv.png",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714124984/BetterJournal/prev_aqrdxv.png",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3037960145",
+		tag: "Games",
+		forBigBoysOnly: false
+	},
+	57: {
+		wallpaperName: "Miku Saul",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714125024/BetterJournal/preview_mzfqdr.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714125028/BetterJournal/27aa1fe78239f61d73055bc2ebe0bf71_tsehjz.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3018541659",
+		tag: "Mems",
+		forBigBoysOnly: false
 	}
 }

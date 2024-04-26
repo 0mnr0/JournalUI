@@ -250,8 +250,8 @@
 	},
 	31: {
 		wallpaperName: "John Sena",
-		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714114021/BetterJournal/John_Cena_MV_Version_FIFTY_FIFTY_-_Cupid_Twin_Version_sped_up_nkresf.mp4",
-		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714114020/BetterJournal/preview_histxk.gif",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714114020/BetterJournal/preview_histxk.gif",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714114021/BetterJournal/John_Cena_MV_Version_FIFTY_FIFTY_-_Cupid_Twin_Version_sped_up_nkresf.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2973197117",
 		tag: "Mems",
 		forBigBoysOnly: false
@@ -312,20 +312,28 @@
 		tag: "Neco Arc",
 		forBigBoysOnly: false
 	},
-	38: {
-		wallpaperName: "Нагиев под дождём",
-		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714115690/BetterJournal/preview_rtt1to.jpg",
-		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714115638/BetterJournal/document_5429272685769143550_rtxfpm.mp4",
-		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3026680999",
-		tag: "Mems",
-		forBigBoysOnly: false
-	},
 	39: {
 		wallpaperName: "Team Fortress 2 - EMESIS BLUE",
 		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714115729/BetterJournal/preview_nf4ur1.gif",
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714115739/BetterJournal/EMESIS_BLUE_EDIT_nck199.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3041112055",
 		tag: "Games",
+		forBigBoysOnly: false
+	},
+	40: {
+		wallpaperName: "Stanced 240sx",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714118034/BetterJournal/preview_xvkzyc.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714118043/BetterJournal/Untitled_fbwsoq.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2944837576",
+		tag: "Cars",
+		forBigBoysOnly: false
+	},
+	41: {
+		wallpaperName: "Arnold Schwarzenegger",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714118182/BetterJournal/preview_pwphwy.gif",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714118043/BetterJournal/Untitled_fbwsoq.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3059697475",
+		tag: "Mems",
 		forBigBoysOnly: false
 	}
 }

@@ -215,5 +215,45 @@
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2980712248",
 		tag: "Nature",
 		forBigBoysOnly: false
+	},
+	27: {
+		wallpaperName: "Rainy Stars",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714112406/BetterJournal/preview_yqgzkv.gif",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714112424/BetterJournal/RainyStars_fyn7dw.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3209676256",
+		tag: "Anime",
+		forBigBoysOnly: false
+	},
+	28: {
+		wallpaperName: "Homyachok",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714112608/BetterJournal/preview_byvl5u.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714112613/BetterJournal/Homyachok.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3166786986",
+		tag: "Mems",
+		forBigBoysOnly: false
+	},
+	29: {
+		wallpaperName: "O Holera",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714112728/BetterJournal/preview_sdd1b8.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714112749/BetterJournal/Freddy_fazbear_bin_Fnaf_fnaf_freddyfazbear_fivenightsatfreddys_securitybreach_viral_fslyjm.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3036055574",
+		tag: "Mems",
+		forBigBoysOnly: false
+	},
+	30: {
+		wallpaperName: "Alkali Underachiever",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714113185/BetterJournal/preview_ddxxjp.gif",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714113545/BetterJournal/Alkali_Underachiever_gxyyse.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3089038744",
+		tag: "Anime",
+		forBigBoysOnly: false
+	},
+	31: {
+		wallpaperName: "Alkali Underachiever",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714113185/BetterJournal/preview_ddxxjp.gif",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714113545/BetterJournal/Alkali_Underachiever_gxyyse.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3089038744",
+		tag: "Anime",
+		forBigBoysOnly: false
 	}
 }

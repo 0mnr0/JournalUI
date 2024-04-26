@@ -335,5 +335,29 @@
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3059697475",
 		tag: "Mems",
 		forBigBoysOnly: false
+	},
+	42: {
+		wallpaperName: "Vibe Fortress 2",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714118595/BetterJournal/preview_joqsjt.gif",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714118599/BetterJournal/yt1s.com_-_Vibe_Fortress_2_1080pFHR_gf6dzr.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3068843368",
+		tag: "Games",
+		forBigBoysOnly: false
+	},
+	43: {
+		wallpaperName: "Si Lan",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714118682/BetterJournal/preview_rprlzt.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714118687/BetterJournal/SiLan_opg9kc.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3082812120",
+		tag: "Anime",
+		forBigBoysOnly: false
+	},
+	44: {
+		wallpaperName: "Wide Putin",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714118815/BetterJournal/preview_iw2ada.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714118819/BetterJournal/Wide_wuin1e.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3016918536",
+		tag: "Mems",
+		forBigBoysOnly: false
 	}
 }

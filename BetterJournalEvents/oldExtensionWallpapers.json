@@ -249,11 +249,83 @@
 		forBigBoysOnly: false
 	},
 	31: {
-		wallpaperName: "Alkali Underachiever",
-		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714113185/BetterJournal/preview_ddxxjp.gif",
-		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714113545/BetterJournal/Alkali_Underachiever_gxyyse.mp4",
-		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3089038744",
+		wallpaperName: "John Sena",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714114021/BetterJournal/John_Cena_MV_Version_FIFTY_FIFTY_-_Cupid_Twin_Version_sped_up_nkresf.mp4",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714114020/BetterJournal/preview_histxk.gif",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2973197117",
+		tag: "Mems",
+		forBigBoysOnly: false
+	},
+	32: {
+		wallpaperName: "Arknight",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714114259/BetterJournal/preview_kvrm0o.gif",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714114261/BetterJournal/ArkNights.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2961607118",
+		tag: "Games",
+		forBigBoysOnly: false
+	},
+	33: {
+		wallpaperName: "Goku Sunset",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714114924/BetterJournal/preview_anf7ie.gif",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714114938/BetterJournal/Goku_Sunset_-_NoFGNon2.39Ratio_relhvq.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3188685714",
+		tag: "Games",
+		forBigBoysOnly: false
+	},
+	34: {
+		wallpaperName: "Eternal Return",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714115190/BetterJournal/preview_waizgr.gif",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714115198/BetterJournal/spine_09_2560x2440_zgzalx.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2959281193",
 		tag: "Anime",
+		forBigBoysOnly: false
+	},
+	35: {
+		wallpaperName: "Kevin Hart",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714115259/BetterJournal/preview_ngdff2.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714115269/BetterJournal/KevinHart.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3180991951",
+		tag: "Mems",
+		forBigBoysOnly: false
+	},
+	36: {
+		wallpaperName: "Нагиев Devil May Cry",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714115381/BetterJournal/preview_wlnxel.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714115385/BetterJournal/Nagiev_Devil_May_Cry.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3123403730",
+		tag: "Mems",
+		forBigBoysOnly: false
+	},
+	37: {
+		wallpaperName: "Limbus Company",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714115440/BetterJournal/preview_ytatqi.gif",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714115439/BetterJournal/LimbusCompany_Fanmade_Live2D_LCCB_Ryoshu_deykby.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3102996842",
+		tag: "Games",
+		forBigBoysOnly: false
+	},
+	38: {
+		wallpaperName: "Neco Arc - A Thousand Miles",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714115570/BetterJournal/preview_e6rnqz.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714115576/BetterJournal/A_Thousand_Miles_-_Neco_arc_FULL_VERSION_hvixaf.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3128836288",
+		tag: "Neco Arc",
+		forBigBoysOnly: false
+	},
+	38: {
+		wallpaperName: "Нагиев под дождём",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714115690/BetterJournal/preview_rtt1to.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714115638/BetterJournal/document_5429272685769143550_rtxfpm.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3026680999",
+		tag: "Mems",
+		forBigBoysOnly: false
+	},
+	39: {
+		wallpaperName: "Team Fortress 2 - EMESIS BLUE",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714115729/BetterJournal/preview_nf4ur1.gif",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714115739/BetterJournal/EMESIS_BLUE_EDIT_nck199.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3041112055",
+		tag: "Games",
 		forBigBoysOnly: false
 	}
 }

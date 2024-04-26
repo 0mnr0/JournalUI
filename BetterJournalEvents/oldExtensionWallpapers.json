@@ -175,5 +175,45 @@
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3105525287",
 		tag: "Fantastic",
 		forBigBoysOnly: true
+	},
+	22: {
+		wallpaperName: "Rayan Gosling In Gta",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714111234/BetterJournal/RayanGoslingInGta.gif",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714111225/BetterJournal/4941523585787_kpofur.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3014658702",
+		tag: "Games",
+		forBigBoysOnly: false
+	},
+	23: {
+		wallpaperName: "Udzaki",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714111389/BetterJournal/Udzakipreview.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714111396/BetterJournal/Udzaki_xwvr1v.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2999973780",
+		tag: "Anime",
+		forBigBoysOnly: false
+	},
+	24: {
+		wallpaperName: "Breaking Bad",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714111612/BetterJournal/BreakingBadPreview.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714111644/BetterJournal/4K_Breaking_Bad_Edit_-_Money_Trees_j2se62.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3008248015",
+		tag: "Films",
+		forBigBoysOnly: false
+	},
+	25: {
+		wallpaperName: "Monika (Doki Doki)",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714111746/BetterJournal/MonikaPreview_jqrink.gif",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714111760/BetterJournal/Doki_Doki_Literature_Club_Plus.mp4_zhnkkw.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2975830332",
+		tag: "Games",
+		forBigBoysOnly: false
+	},
+	26: {
+		wallpaperName: "Kitty and Flower",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714111858/BetterJournal/preview_gum5l9.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714111872/BetterJournal/mylivewallpapers-com-Kitty-and_Flower-Petals-4K_wtiwau.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2980712248",
+		tag: "Nature",
+		forBigBoysOnly: false
 	}
 }

@@ -359,5 +359,29 @@
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3016918536",
 		tag: "Mems",
 		forBigBoysOnly: false
+	},
+	45: {
+		wallpaperName: "Cav Vibes",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714123168/BetterJournal/preview_wdtd94.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714123175/BetterJournal/Cav_Vibes_ehvsci.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3048152540",
+		tag: "Nature",
+		forBigBoysOnly: false
+	},
+	46: {
+		wallpaperName: "Chipi Chapa",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714123318/BetterJournal/preview_h3syax.gif",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714123323/BetterJournal/New_Project_sezowd.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3120340754",
+		tag: "Mems",
+		forBigBoysOnly: false
+	},
+	47: {
+		wallpaperName: "Wanderer",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714123439/BetterJournal/preview_nfk4qd.gif",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714123469/BetterJournal/wanderer_wdxni5.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3120340754",
+		tag: "Games",
+		forBigBoysOnly: false
 	}
 }

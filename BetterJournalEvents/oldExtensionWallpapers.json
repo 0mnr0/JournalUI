@@ -383,5 +383,53 @@
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3120340754",
 		tag: "Games",
 		forBigBoysOnly: false
+	},
+	48: {
+		wallpaperName: "Pedro Pedro",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714124219/BetterJournal/pedro_iuaqjc.png",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714124066/BetterJournal/download-5_raak6g.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3222134422",
+		tag: "Mems",
+		forBigBoysOnly: false
+	},
+	49: {
+		wallpaperName: "Statue",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714124304/BetterJournal/preview_kuchqj.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714124307/BetterJournal/videoplayback_qwhnxi.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3149060211",
+		tag: "Mems",
+		forBigBoysOnly: false
+	},
+	50: {
+		wallpaperName: "Lake an Sunset",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714124354/BetterJournal/preview_kkfze5.gif",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714124358/BetterJournal/lake_-_91562_1440p_debx6w.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3094452410",
+		tag: "Nature",
+		forBigBoysOnly: false
+	},
+	51: {
+		wallpaperName: "T2x2",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714124400/BetterJournal/preview_chieaw.gif",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714124401/BetterJournal/6b68698463c40cd5f2404179e8720e6d_qyqwj7.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3071608775",
+		tag: "Mems",
+		forBigBoysOnly: false
+	},
+	52: {
+		wallpaperName: "Sanabi",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714124527/BetterJournal/preview_r4t0fh.gif",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714124527/BetterJournal/preview_r4t0fh.gif",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3172783821",
+		tag: "Games",
+		forBigBoysOnly: false
+	},
+	53: {
+		wallpaperName: "Lappland The Traveler",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714124614/BetterJournal/preview_l3spdt.gif",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714124624/BetterJournal/Lappland_nmxdra.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2985644813",
+		tag: "Games",
+		forBigBoysOnly: false
 	}
 }

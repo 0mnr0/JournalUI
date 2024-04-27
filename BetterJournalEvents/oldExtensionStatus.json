@@ -1,0 +1,9 @@
+{
+	status: "В процессе",
+	logic_status: "Полировка багов",
+	changes: "Добавлено круговое меню",
+	release_date: "30.04.2024",
+	forBeta: false,
+	current_lastVersion: "2.4",
+	future_version: "2.5"
+}

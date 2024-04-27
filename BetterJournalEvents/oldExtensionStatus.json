@@ -1,4 +1,5 @@
 {
+	showThisInfo: true,
 	status: "В процессе",
 	logic_status: "Полировка багов",
 	changes: "Добавлено круговое меню",

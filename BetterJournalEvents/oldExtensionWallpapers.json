@@ -271,11 +271,11 @@
 		visible: true
 	},
 	30: {
-		wallpaperName: "Alkali Underachiever",
-		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714113185/BetterJournal/preview_ddxxjp.gif",
-		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714113545/BetterJournal/Alkali_Underachiever_gxyyse.mp4",
-		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3089038744",
-		tag: "Anime",
+		wallpaperName: "Russian Kid dancing at club",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714668792/BetterJournal/preview_binu07.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714668794/BetterJournal/Russian_kid_dancing_at_club_can_t_be_bothered._1997._online-video-cutter.com_jikjpg.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=1722954613",
+		tag: "Mems",
 		forBigBoysOnly: false,
 		visible: true
 	},
@@ -537,6 +537,33 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714648668/BetterJournal/000072_converted_zj4soo.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2931757664",
 		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	60: {
+		wallpaperName: "Vibes Anime",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714670686/BetterJournal/preview_kjdpjx.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714670701/BetterJournal/VibesAnime_kztsi5.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3057078872",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	61: {
+		wallpaperName: "Vibes Anime",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714670686/BetterJournal/preview_kjdpjx.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714670701/BetterJournal/VibesAnime_kztsi5.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3057078872",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	62: {
+		wallpaperName: "Mountain Ambience",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714670933/BetterJournal/preview_e1faom.gif",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714670927/BetterJournal/MountainAmbience_pzoa6v.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3183750365",
+		tag: "Nature",
 		forBigBoysOnly: false,
 		visible: true
 	}

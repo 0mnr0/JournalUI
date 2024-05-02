@@ -521,5 +521,23 @@
 		tag: "Mems",
 		forBigBoysOnly: false,
 		visible: true
+	},
+	58: {
+		wallpaperName: "Breaking Bad x Mario Kart",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714648279/BetterJournal/preview_xgxdyh.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714648281/BetterJournal/BreakingMario.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2859577747",
+		tag: "Films",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	59: {
+		wallpaperName: "Pastel Mix",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714648667/BetterJournal/preview_vv9gaw.gif",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714648668/BetterJournal/000072_converted_zj4soo.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2931757664",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
 	}
 }

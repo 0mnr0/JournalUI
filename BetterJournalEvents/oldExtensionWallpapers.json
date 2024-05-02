@@ -6,7 +6,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1701688292/BetterJournal/RayanGosling.mp4.mp4",
 		wallpaperEngineLink: null,
 		tag: "Mems",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	1: {
 		wallpaperName: "Lonely Samurai",
@@ -14,7 +15,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1702036134/BetterJournal/LonelySamurai.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2130919433",
 		tag: "Anime",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	2: {
 		wallpaperName: "Sci-Fi Planet",
@@ -22,7 +24,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1703523377/BetterJournal/SciFi_Planet_znl1hm.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2824047299",
 		tag: "Nature",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	3: {
 		wallpaperName: "In The Mountains",
@@ -30,7 +33,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1703876097/BetterJournal/InTheMounatins_slgfmu.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=1837650841",
 		tag: "Nature",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	4: {
 		wallpaperName: "Japan Autumn",
@@ -38,7 +42,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1703876827/BetterJournal/JapanAutumn.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2605094298",
 		tag: "Anime",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	5: {
 		wallpaperName: "Komiwave",
@@ -46,7 +51,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1705404693/BetterJournal/Komivawe_hvogvx.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2391553844",
 		tag: "Anime",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	6: {
 		wallpaperName: "Atelier",
@@ -54,7 +60,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1705568750/BetterJournal/Atelier_dwundx.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3030675413",
 		tag: "Anime",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	7: {
 		wallpaperName: "9mm",
@@ -62,7 +69,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1706250773/BetterJournal/9mm.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3135364491",
 		tag: "Cars",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	8: {
 		wallpaperName: "Sachiro",
@@ -70,7 +78,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1706527152/BetterJournal/SachiroBg.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2915222568",
 		tag: "Anime",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	9: {
 		wallpaperName: "Demon Slayer",
@@ -78,7 +87,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1706528164/BetterJournal/DemonSlayer.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=1884879976",
 		tag: "Anime",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	10: {
 		wallpaperName: "Ice Wolf",
@@ -86,7 +96,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1706688129/BetterJournal/IceWolf_ksa5yy.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3000492313",
 		tag: "Anime",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	11: {
 		wallpaperName: "Inano",
@@ -94,7 +105,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1707735557/BetterJournal/inano_video.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3021987040",
 		tag: "Anime",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	12: {
 		wallpaperName: "Pine Forest",
@@ -102,7 +114,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1710847605/BetterJournal/Aesthetic_Pine_Forest_rua7vk.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2844116483",
 		tag: "Nature",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	13: {
 		wallpaperName: "Japan Forest",
@@ -110,7 +123,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1710915082/BetterJournal/JapanForest_syoxad.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2619919364",
 		tag: "Nature",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	14: {
 		wallpaperName: "Crismon Forest",
@@ -118,7 +132,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1712575169/BetterJournal/Crismon_yepuws.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=1117892236",
 		tag: "Nature",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	15: {
 		wallpaperName: "Roronoa",
@@ -126,15 +141,17 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714107212/BetterJournal/Roronoa.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3045773500",
 		tag: "Anime",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	16: {
 		wallpaperName: "Rear LS400",
 		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714107505/BetterJournal/RearLS400.gif",
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714107590/BetterJournal/paradoxviis_Rear_Wangan_H_kwzinj.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2986721963",
-		tag: "Anime",
-		forBigBoysOnly: false
+		tag: "Cars",
+		forBigBoysOnly: false,
+		visible: true
 	},
 	17: {
 		wallpaperName: "Dante - Heartbeat",
@@ -142,7 +159,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714107735/BetterJournal/Dante_-Heartbeat_qyamy4.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3149610244",
 		tag: "Mems",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	18: {
 		wallpaperName: "Purple Moon",
@@ -150,7 +168,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714108276/BetterJournal/night-sky-purple-moon-clouds-moewalls-com_dcjnot.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3020093729",
 		tag: "Fantastic",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	19: {
 		wallpaperName: "John Sena",
@@ -158,7 +177,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714108486/BetterJournal/John_Cena_FIFTY_FIFTY_-_Cupid_sped_up_-_1080p_q9okcd.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2974651621",
 		tag: "Mems",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	20: {
 		wallpaperName: "Evening Ride",
@@ -166,7 +186,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714108711/BetterJournal/Laura_Clean_Render_2_xlmaco.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3003678074",
 		tag: "PixelArt",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	21: {
 		wallpaperName: "GTA VI Trailer",
@@ -174,7 +195,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714109188/BetterJournal/Grand_Theft_Auto_VI_Trailer_1_vbupdd.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3105525287",
 		tag: "Fantastic",
-		forBigBoysOnly: true
+		forBigBoysOnly: true,
+		visible: true
 	},
 	22: {
 		wallpaperName: "Rayan Gosling In Gta",
@@ -182,7 +204,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714111225/BetterJournal/4941523585787_kpofur.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3014658702",
 		tag: "Games",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	23: {
 		wallpaperName: "Udzaki",
@@ -190,7 +213,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714111396/BetterJournal/Udzaki_xwvr1v.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2999973780",
 		tag: "Anime",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	24: {
 		wallpaperName: "Breaking Bad",
@@ -198,7 +222,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714111644/BetterJournal/4K_Breaking_Bad_Edit_-_Money_Trees_j2se62.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3008248015",
 		tag: "Films",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	25: {
 		wallpaperName: "Monika (Doki Doki)",
@@ -206,7 +231,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714111760/BetterJournal/Doki_Doki_Literature_Club_Plus.mp4_zhnkkw.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2975830332",
 		tag: "Games",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	26: {
 		wallpaperName: "Kitty and Flower",
@@ -214,7 +240,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714111872/BetterJournal/mylivewallpapers-com-Kitty-and_Flower-Petals-4K_wtiwau.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2980712248",
 		tag: "Nature",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	27: {
 		wallpaperName: "Rainy Stars",
@@ -222,7 +249,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714112424/BetterJournal/RainyStars_fyn7dw.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3209676256",
 		tag: "Anime",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	28: {
 		wallpaperName: "Homyachok",
@@ -230,7 +258,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714112613/BetterJournal/Homyachok.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3166786986",
 		tag: "Mems",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	29: {
 		wallpaperName: "O Holera",
@@ -238,7 +267,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714112749/BetterJournal/Freddy_fazbear_bin_Fnaf_fnaf_freddyfazbear_fivenightsatfreddys_securitybreach_viral_fslyjm.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3036055574",
 		tag: "Mems",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	30: {
 		wallpaperName: "Alkali Underachiever",
@@ -246,7 +276,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714113545/BetterJournal/Alkali_Underachiever_gxyyse.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3089038744",
 		tag: "Anime",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	31: {
 		wallpaperName: "John Sena",
@@ -254,7 +285,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714114021/BetterJournal/John_Cena_MV_Version_FIFTY_FIFTY_-_Cupid_Twin_Version_sped_up_nkresf.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2973197117",
 		tag: "Mems",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	32: {
 		wallpaperName: "Arknight",
@@ -262,7 +294,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714114261/BetterJournal/ArkNights.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2961607118",
 		tag: "Games",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	33: {
 		wallpaperName: "Goku Sunset",
@@ -270,7 +303,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714114938/BetterJournal/Goku_Sunset_-_NoFGNon2.39Ratio_relhvq.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3188685714",
 		tag: "Games",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	34: {
 		wallpaperName: "Eternal Return",
@@ -278,7 +312,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714115198/BetterJournal/spine_09_2560x2440_zgzalx.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2959281193",
 		tag: "Anime",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	35: {
 		wallpaperName: "Kevin Hart",
@@ -286,7 +321,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714115269/BetterJournal/KevinHart.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3180991951",
 		tag: "Mems",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	36: {
 		wallpaperName: "Нагиев Devil May Cry",
@@ -294,7 +330,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714115385/BetterJournal/Nagiev_Devil_May_Cry.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3123403730",
 		tag: "Mems",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	37: {
 		wallpaperName: "Limbus Company",
@@ -302,7 +339,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714115439/BetterJournal/LimbusCompany_Fanmade_Live2D_LCCB_Ryoshu_deykby.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3102996842",
 		tag: "Games",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	38: {
 		wallpaperName: "Neco Arc - A Thousand Miles",
@@ -310,7 +348,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714115576/BetterJournal/A_Thousand_Miles_-_Neco_arc_FULL_VERSION_hvixaf.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3128836288",
 		tag: "Neco Arc",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	39: {
 		wallpaperName: "Team Fortress 2 - EMESIS BLUE",
@@ -318,7 +357,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714115739/BetterJournal/EMESIS_BLUE_EDIT_nck199.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3041112055",
 		tag: "Games",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	40: {
 		wallpaperName: "Stanced 240sx",
@@ -326,7 +366,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714118043/BetterJournal/Untitled_fbwsoq.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2944837576",
 		tag: "Cars",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	41: {
 		wallpaperName: "Arnold Schwarzenegger",
@@ -334,7 +375,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714118183/BetterJournal/vk-video-download-video-online-com_rcqhj9.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3059697475",
 		tag: "Mems",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	42: {
 		wallpaperName: "Vibe Fortress 2",
@@ -342,7 +384,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714118599/BetterJournal/yt1s.com_-_Vibe_Fortress_2_1080pFHR_gf6dzr.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3068843368",
 		tag: "Games",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	43: {
 		wallpaperName: "Si Lan",
@@ -350,7 +393,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714118687/BetterJournal/SiLan_opg9kc.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3082812120",
 		tag: "Anime",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	44: {
 		wallpaperName: "Wide Putin",
@@ -358,7 +402,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714118819/BetterJournal/Wide_wuin1e.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3016918536",
 		tag: "Mems",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	45: {
 		wallpaperName: "Cav Vibes",
@@ -366,7 +411,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714123175/BetterJournal/Cav_Vibes_ehvsci.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3048152540",
 		tag: "Nature",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	46: {
 		wallpaperName: "Chipi Chapa",
@@ -374,7 +420,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714123323/BetterJournal/New_Project_sezowd.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3120340754",
 		tag: "Mems",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	47: {
 		wallpaperName: "Wanderer",
@@ -382,7 +429,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714123469/BetterJournal/wanderer_wdxni5.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3120340754",
 		tag: "Games",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	48: {
 		wallpaperName: "Pedro Pedro",
@@ -390,7 +438,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714124066/BetterJournal/download-5_raak6g.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3222134422",
 		tag: "Mems",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	49: {
 		wallpaperName: "Statue",
@@ -398,7 +447,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714124307/BetterJournal/videoplayback_qwhnxi.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3149060211",
 		tag: "Mems",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	50: {
 		wallpaperName: "Lake an Sunset",
@@ -406,7 +456,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714124358/BetterJournal/lake_-_91562_1440p_debx6w.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3094452410",
 		tag: "Nature",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	51: {
 		wallpaperName: "T2x2",
@@ -414,7 +465,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714124401/BetterJournal/6b68698463c40cd5f2404179e8720e6d_qyqwj7.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3071608775",
 		tag: "Mems",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	52: {
 		wallpaperName: "Sanabi",
@@ -422,7 +474,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714124552/BetterJournal/2024-03-04-09-15-09_1_bn5xh9.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3172783821",
 		tag: "Games",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	53: {
 		wallpaperName: "Lappland The Traveler",
@@ -430,7 +483,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714124624/BetterJournal/Lappland_nmxdra.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2985644813",
 		tag: "Games",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	54: {
 		wallpaperName: "Huh Dog",
@@ -438,7 +492,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714124772/BetterJournal/huh_dog_gn8ixx.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2916544077",
 		tag: "Mems",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	55: {
 		wallpaperName: "Walther White Dancing",
@@ -446,7 +501,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714124813/BetterJournal/Walter_s.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3208760528",
 		tag: "Mems",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	56: {
 		wallpaperName: "tf2",
@@ -454,7 +510,8 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714124891/BetterJournal/tf2_dance_smoxkw.mov",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3037960145",
 		tag: "Games",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	},
 	57: {
 		wallpaperName: "Miku Saul",
@@ -462,6 +519,7 @@
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714125028/BetterJournal/27aa1fe78239f61d73055bc2ebe0bf71_tsehjz.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3018541659",
 		tag: "Mems",
-		forBigBoysOnly: false
+		forBigBoysOnly: false,
+		visible: true
 	}
 }

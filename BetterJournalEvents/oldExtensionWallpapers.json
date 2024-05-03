@@ -575,5 +575,14 @@
 		tag: "Anime",
 		forBigBoysOnly: false,
 		visible: true
+	},
+	64: {
+		wallpaperName: "Breaking Bad In Monster Inc",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714718037/BetterJournal/maxresdefault_mwuyyx.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714718034/BetterJournal/Breaking_Bad_In_Monsters_Inc_itny2o.mp4",
+		wallpaperEngineLink: null,
+		tag: "Films",
+		forBigBoysOnly: false,
+		visible: true
 	}
 }

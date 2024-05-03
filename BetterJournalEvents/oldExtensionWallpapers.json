@@ -550,11 +550,11 @@
 		visible: true
 	},
 	61: {
-		wallpaperName: "Vibes Anime",
-		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714670686/BetterJournal/preview_kjdpjx.jpg",
-		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714670701/BetterJournal/VibesAnime_kztsi5.mp4",
-		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3057078872",
-		tag: "Anime",
+		wallpaperName: "Russian Kid Dancing At Club",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714668792/BetterJournal/preview_binu07.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714668794/BetterJournal/Russian_kid_dancing_at_club_can_t_be_bothered._1997._online-video-cutter.com_jikjpg.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=1722954613",
+		tag: "Mems",
 		forBigBoysOnly: false,
 		visible: true
 	},

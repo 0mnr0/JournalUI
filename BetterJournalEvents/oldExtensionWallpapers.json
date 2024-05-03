@@ -566,5 +566,14 @@
 		tag: "Nature",
 		forBigBoysOnly: false,
 		visible: true
+	},
+	63: {
+		wallpaperName: "Rain - Anime Person",
+		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714717094/BetterJournal/preview_ylzu1x.jpg",
+		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714717113/BetterJournal/RainPerson_ydk6yn.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=889785902",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
 	}
 }

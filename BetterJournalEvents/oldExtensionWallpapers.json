@@ -84,7 +84,7 @@
 	10: {
 		wallpaperName: "Ice Wolf",
 		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/IceWolf_preview.jpg?raw=true",
-		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1706688129/BetterJournal/IceWolf_ksa5yy.mp4",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/IceWolf.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3000492313",
 		tag: "Anime",
 		forBigBoysOnly: false,
@@ -128,7 +128,7 @@
 	},
 	15: {
 		wallpaperName: "Roronoa",
-		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714106804/BetterJournal/Roronoa_huvn25.gif",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Roronoa%20Zoro_preview.gif?raw=true",
 		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714107212/BetterJournal/Roronoa.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3045773500",
 		tag: "Anime",
@@ -137,8 +137,8 @@
 	},
 	16: {
 		wallpaperName: "Rear LS400",
-		wallpaperPreview: "https://res.cloudinary.com/dbzfezrjd/image/upload/v1714107505/BetterJournal/RearLS400.gif",
-		wallpaperVideoLink: "https://res.cloudinary.com/dbzfezrjd/video/upload/v1714107590/BetterJournal/paradoxviis_Rear_Wangan_H_kwzinj.mp4",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Rear%20LS400%20Shot%20@paradoxviis_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Rear%20LS400%20Shot%20@paradoxviis.mp4",
 		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2986721963",
 		tag: "Cars",
 		forBigBoysOnly: false,

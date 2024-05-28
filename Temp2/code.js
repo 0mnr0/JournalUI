@@ -45,5 +45,5 @@ window.onresize = function(){
 if (window.outerWidth > 400) {
 	window.onscroll()
 } else {
-	window.localtion = window.location.pathname.replace('Temp2/index.html', 'Temp2/M/index.html')
+	window.location = window.location.href.replace('Temp2/index.html', 'Temp2/M/index.html')
 }

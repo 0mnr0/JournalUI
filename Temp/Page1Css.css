@@ -16,15 +16,16 @@ h1, h2, h3, h4, h5, h6, h7 { margin:0; padding: 0; width: fit-content}
 
 .SiteDescription {
     margin: 0;
+	text-align: center;
     font-size: small;
-    margin-left: 10%;
-    width: 200%;
+    margin-left: 10px;
+    width:99%;
 
 }
 
 button {outline-border: none}
 
-.InLineElements {display: flex; position: absolute; top:0px;}
+.InLineElements {display: flex; position: relative; top:0px; justify-content: center}
 
 .ButtonBetweenPages:hover {border: solid 2px #59E926}
 
@@ -34,12 +35,12 @@ button {outline-border: none}
 	height: fit-content;
 	padding: 6px;
 	background: #192e29;
-	display: ruby-text;
+	display: flex;
 	z-index: 3;
 	border-end-end-radius: 15px;
 }
 
-.TwoRizmLine h4 {float: left;}
+.TwoRizmLine h4 {float: left; padding-top: 10px; left: 20px; position: relative}
 
 .SideBar button {
 	width: 100%;
@@ -49,43 +50,39 @@ button {outline-border: none}
 
 button.ButtonBetweenPages.Active {border: solid 2px #ffab54}
 
-.SideBar {
-	width: 26%;
-	height: -webkit-fill-available;
-	background: #192e29;
-	display: flow;
-	align-content: center;
-}
+
 
 .SiteMenu {
-    width: -webkit-fill-available;
-	margin-bottom: 25px;
+	width: 100%;
+	margin-bottom: 15px;
     text-align: center;
 }
 
 .AllContent {
 	height: -webkit-fill-available;
-	display: flex;
+	display: block;
 }
 
 
 
-button.ButtonBetweenPages.BtnTop {border-radius: 0px; border-start-start-radius: 10px; border-start-end-radius: 10px; margin-bottom: 2px;}
-button.ButtonBetweenPages.BtnEnd {border-radius: 0px; border-end-start-radius: 10px; border-end-end-radius: 10px; margin-top: 0px; border: solid 2px #254e44f7}
+button.ButtonBetweenPages.BtnTop {border-radius: 0px; border-start-start-radius: 10px; border-start-end-radius: 10px; margin-bottom: 2px; width: 100%}
+button.ButtonBetweenPages.BtnEnd {border-radius: 0px; border-end-start-radius: 10px; border-end-end-radius: 10px; margin-top: 0px; border: solid 2px #254e44f7; width: 100%}
 button.ButtonBetweenPages.NonActive.BtnEnd {background: #78a468b5}
 
 .ButtonMenu{
+	width: min-content;
     height: fit-content;
     display: flow-root;
+	max-width: 100%;
     max-height: 70%;
     left: 5px;
-	overflow: auto;
+	overflow: hidden;
     position: relative;
 	font-size: medium;
     padding: 5px;
 }
 
-.ButtonMenu button {font-size: medium}
+.ButtonMenu button {font-size: medium; white-space: nowrap}
 
 
 ::-webkit-scrollbar {
@@ -100,6 +97,7 @@ button.ButtonBetweenPages.NonActive.BtnEnd {background: #78a468b5}
   border-radius: 3px;
 }
 
+
 .ButtonBetweenPages {
 	border-radius: 12px;
 	border: solid 2px #71CB51;
@@ -109,7 +107,7 @@ button.ButtonBetweenPages.NonActive.BtnEnd {background: #78a468b5}
 	font-weight: bold;
 	height: 40px;
 	position: relative;
-	float: right;
+	right: 10px;
 	cursor: pointer;
 	min-width: fit-content;
 	transition: all .3s;
@@ -117,13 +115,15 @@ button.ButtonBetweenPages.NonActive.BtnEnd {background: #78a468b5}
 	background: #78A468;
 }
 
-.TwoRizmHeader{margin-left: 10px;}
+.TwoRizmHeader{margin-left: 10px; width: 99%; text-align: center}
 
 .TwoRizmHeader b { font-size: larger;}
 
 .TwoRizmImage {
-    width: -webkit-fill-available;
-	position: absolute;
+	left: 25%;
+    width: 50%;
+	position: relative;
+	border-radius: 20px;
     max-height: 85%;
     object-fit: cover;
 	filter: brightness(0.5);
@@ -162,3 +162,5 @@ button.ButtonBetweenPages.NonActive.BtnEnd {background: #78a468b5}
 .ButtonInFloatingMenu:hover {border: solid 2px #59E926}
 
 
+
+.ToMain {position: absolute}

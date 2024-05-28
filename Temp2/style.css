@@ -1,0 +1,50 @@
+body {background: #2c2b37; color: white; font-size: x-large; margin-bottom: 50px}
+
+.ontoptitle {text-align: center; width: 100%; margin-top: 20px; margin-bottom: 20px}
+
+::-webkit-scrollbar {background: black; border-radius: 15px; width: 7px;}
+::-webkit-scrollbar-thumb {background: #6F898E; border-radius: 15px; -webkit-box-shadow: none;}
+
+.backgroundimage {
+	position: fixed;
+	top: 0px;
+	filter: opacity(0.3);
+	z-index: 0;
+	transition: all .5s;
+	height: 100%;
+	object-fit: cover;
+	width: 100%;
+}
+
+.InformationBlock {display: flex; margin: 10px;  margin-bottom: 50px; border-radius: 40px; background: #0000006e; transition: all .6s}
+.InformationBlock.SubTheme {padding: 20px; text-align: center; margin-top: 180px}
+.InformationBlock.SubTheme span {width: 100%; font-weight: 500; font-size: larger}
+.content {z-index: 1; position: relative}
+.LeftTitle, .RightTitle { padding: 15px; padding-right: 20px }
+.LeftTitle h2, .RightTitle h2 { width: 100%; text-align: center; }
+
+.EndingUp {display: block; padding: 20px}
+.EndingUpTitle {width: 100%; text-align: center}
+
+.LeftTitle {
+	width: 50%;
+	height: auto;
+	min-width: 400px;
+	border-radius: 40px;
+	border: solid 3px white;
+	position: relative;
+}
+
+.LeftPartDescription {max-width: 50%; padding: 10px;  padding-left: 20px}
+
+.LeftBlockTitle {width: 100%; margin-top: 10px; margin-bottom: 10px}
+
+
+.RightPartDescription {max-width: 50%; padding: 20px;  padding-right: 30px}
+.RightTitle {
+	width: 50%;
+	height: auto;
+	border-radius: 40px;
+	border: solid 3px white;
+	position: relative;
+}

@@ -17,15 +17,8 @@
             }
     
         }
-    }, 
-     1: {
-        eventTitle: "Ошибка с окрашиванием",
-        eventDescription: "Ошибка известна, исправлние выйдет в ближайшее время",
-        enabled: true,
-        showTime: "always",
-        showDuration: 5
-    }, 
-    2: {
+    },
+    1: {
         eventTitle: "Исправление ошибки с окрашиванием",
         eventDescription: "Я поправил ошибку с окрашиванием, можно установить по кнопке ниже:",
         enabled: true,

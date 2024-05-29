@@ -557,5 +557,50 @@
 		tag: "Films",
 		forBigBoysOnly: false,
 		visible: true
+	},
+	65: {
+		wallpaperName: "OneShot (Lofi Niko)",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/6ThwallpaperLossy.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/6ThwallpaperLossy.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2902679687",
+		tag: "Games",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	66: {
+		wallpaperName: "Alps Mountains - Windy & Snowing",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Alps%20Mountains%20-%20Windy%20&%20Snowing_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Alps%20Mountains%20-%20Windy%20&%20Snowing.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=828722349",
+		tag: "Nature",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	68: {
+		wallpaperName: "Aquatic Landscape",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Aquatic%20Landscape_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Aquatic%20Landscape.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=1308633726",
+		tag: "Fantastic",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	69: {
+		wallpaperName: "Beginning of Consciousness",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Beginning%20of%20Consciousness_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Beginning%20of%20Consciousness.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2957448569",
+		tag: "Nature",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	70: {
+		wallpaperName: "Day and Night Restaurants",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Day%20and%20Night%20Restaurants_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Day%20and%20Night%20Restaurants.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2957448569",
+		tag: "Nature",
+		forBigBoysOnly: false,
+		visible: true
 	}
 }

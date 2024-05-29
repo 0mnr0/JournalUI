@@ -19,9 +19,8 @@
     }, 
      1: {
         eventTitle: "Ошибка с окрашиванием",
-        eventDescription: "Я уже знаю про ошибку, исправлние выйдет в ближайшее время",
-        enabled: false,
-		
+        eventDescription: "Ошибка известна, исправлние выйдет в ближайшее время",
+        enabled: true,
         showTime: "always",
         showDuration: 5
     }

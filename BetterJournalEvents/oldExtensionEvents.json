@@ -30,7 +30,6 @@
         eventDescription: "Я поправил ошибку с окрашиванием, можно установить по кнопке ниже:",
         enabled: false,
 		enabledForDev: true,
-		showVersion: ">= 2.5.1", 
         showTime: "always",
 		buttons: {
 			0: {

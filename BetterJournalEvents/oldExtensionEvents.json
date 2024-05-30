@@ -22,14 +22,5 @@
         eventTitle: "Исправление ошибки с окрашиванием",
         eventDescription: "Я поправил ошибку с окрашиванием, можно установить по кнопке ниже:",
         enabled: false,
-		enabledForDev: false,
-        showTime: "always",
-		buttons: {
-			0: {
-                text: "Установить обновление",
-                action: "window.open('https://greasyfork.org/ru/scripts/479183-better-journal')"
-            }
-		},
-        showDuration: 5
     }
 }

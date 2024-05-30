@@ -21,8 +21,8 @@
     1: {
         eventTitle: "Исправление ошибки с окрашиванием",
         eventDescription: "Я поправил ошибку с окрашиванием, можно установить по кнопке ниже:",
-        enabled: true,
-		enabledForDev: true,
+        enabled: false,
+		enabledForDev: false,
         showTime: "always",
 		buttons: {
 			0: {

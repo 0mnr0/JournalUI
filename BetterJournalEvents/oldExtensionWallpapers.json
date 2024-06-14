@@ -602,5 +602,50 @@
 		tag: "Nature",
 		forBigBoysOnly: false,
 		visible: true
+	},
+	73: {
+		wallpaperName: "Ghost of Tsushima",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Ghost%20of%20Tsushima_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Ghost%20of%20Tsushima.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2183178278",
+		tag: "Nature",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	74: {
+		wallpaperName: "Ghost of Tsushima",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Hatsune%20Miku%202%20%5BFlashing%20Warning%5D_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Hatsune%20Miku%202%20%5BFlashing%20Warning%5D.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2945859950",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	75: {
+		wallpaperName: "Japan City",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Japan%20City_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Japan%20City.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3004284800",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	76: {
+		wallpaperName: "Last Tree",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Last%20tree_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Last%20tree.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2634122795",
+		tag: "Nature",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	77: {
+		wallpaperName: "Magical Stars",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Magical%20Star_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Magical%20Star.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2994130393",
+		tag: "Fantastic",
+		forBigBoysOnly: false,
+		visible: true
 	}
 }

@@ -180,15 +180,6 @@
 		forBigBoysOnly: false,
 		visible: true
 	},
-	21: {
-		wallpaperName: "GTA VI Trailer",
-		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Grand%20Theft%20Auto%20VI%20Trailer%201_preview.jpg?raw=true",
-		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Grand%20Theft%20Auto%20VI%20Trailer%201.mp4",
-		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3105525287",
-		tag: "Fantastic",
-		forBigBoysOnly: true,
-		visible: true
-	},
 	22: {
 		wallpaperName: "Rayan Gosling In Gta",
 		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Ryon%20Gosling%20in%20GTA%205_preview.gif?raw=true",

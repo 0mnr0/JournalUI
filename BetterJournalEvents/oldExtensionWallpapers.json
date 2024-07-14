@@ -638,5 +638,77 @@
 		tag: "Fantastic",
 		forBigBoysOnly: false,
 		visible: true
+	},
+	78: {
+		wallpaperName: "Makima Doomer",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Makima%20Doomer_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Makima%20Doomer.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2911178046",
+		tag: "Fantastic",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	79: {
+		wallpaperName: "Memory of a Distant Place",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Memory%20of%20a%20Distant%20Place%20(OneShot)_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Memory%20of%20a%20Distant%20Place%20(OneShot).mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2677780545",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	80: {
+		wallpaperName: "Multicolor Cube",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Multicolor%20Cube_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Multicolor%20Cube.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=1268450042",
+		tag: "Other",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	81: {
+		wallpaperName: "Niko at Greenhouse",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Niko%20in%20a%20Greenhouse%20(Audio)_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Niko%20in%20a%20Greenhouse%20(Audio).mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2584245878",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	82: {
+		wallpaperName: "Purple Night Sky",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/PURPLE%20NIGHT%20SKY%204K_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/PURPLE%20NIGHT%20SKY%204K.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=3020093729",
+		tag: "Nature",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	83: {
+		wallpaperName: "Passage To Safety",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Passage%20To%20Safety%20(Video)_preview.png?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Passage%20To%20Safety%20(Video).mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=1442079623",
+		tag: "Nature",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	83: {
+		wallpaperName: "Pixel",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Pixel_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Pixel.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2957166023",
+		tag: "PixelArt",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	83: {
+		wallpaperName: "Space",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Space_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Space.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=1802288008",
+		tag: "Nature",
+		forBigBoysOnly: false,
+		visible: true
 	}
 }

@@ -710,5 +710,32 @@
 		tag: "Nature",
 		forBigBoysOnly: false,
 		visible: true
+	},
+	84: {
+		wallpaperName: "Sunset Horizon",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/Sunset%20Horizon_preview.jpg?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/Sunset%20Horizon.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2670033228",
+		tag: "Nature",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	85: {
+		wallpaperName: "Old Radio Tower",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/The%20Old%20Radio%20Tower_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/The%20Old%20Radio%20Tower.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2978167104",
+		tag: "Nature",
+		forBigBoysOnly: false,
+		visible: true
+	},
+	86: {
+		wallpaperName: "TwitchMOCA - Subway",
+		wallpaperPreview: "https://github.com/0mnr0/WallpaperInJournal/blob/main/WallItems/TwitchMOCA_Subway_preview.gif?raw=true",
+		wallpaperVideoLink: "https://github.com/0mnr0/WallpaperInJournal/raw/main/WallItems/TwitchMOCA_Subway.mp4",
+		wallpaperEngineLink: "https://steamcommunity.com/sharedfiles/filedetails/?id=2963245957",
+		tag: "Anime",
+		forBigBoysOnly: false,
+		visible: true
 	}
 }
